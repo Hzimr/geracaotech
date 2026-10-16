@@ -1,0 +1,32 @@
+body {
+  background-color: #ffffffee;
+  padding: 3rem;
+  margin: 2rem;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.habilidade1 {
+  color: oklch(95.1% 8.026 126.824);
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.habilidade2 {
+  color: oklch(95.1% 20.026 196.2);
+  font-weight: semibold;
+  font-size: 1.2rem;
+}
+
+.habilidade3 {
+  color: oklch(95.1% 30.026 136.824);
+  font-weight: light;
+  font-size: 18px;
+}
+
+.bio {
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
